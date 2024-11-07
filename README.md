@@ -1,6 +1,18 @@
-# git sync
+![hero](github.png)
 
-A Git alias for enhanced sync functionality with basic automatic conflict resolution.
+---
+
+<h1 align="ceter">git sync alias</h1>
+
+<p align="center">
+    A Git alias for e nhanced sync functionality with basic automatic conflict resolution.
+    <br />
+    <br />
+    <a target="_blank" href="https://mat-m.com">Check my website</a>
+    ·
+    <a target="_blank" href="https://bsky.app/profile/mat-m.com">Follow me on Bluesky</a>
+  </p>
+</p>
 
 ### Manual Installation
 ```bash
