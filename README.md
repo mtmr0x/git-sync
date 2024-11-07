@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="ceter">git sync alias</h1>
+<h1 align="center">git sync alias</h1>
 
 <p align="center">
     A Git alias for e nhanced sync functionality with basic automatic conflict resolution.
