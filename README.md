@@ -112,10 +112,3 @@ git sync -o                  # Auto-resolve conflicts favoring our changes
 git sync -t feature-branch   # Auto-resolve conflicts favoring their changes (specific branch)
 git sync -o feature-branch   # Auto-resolve conflicts favoring our changes (specific branch)
 ```
-
-## How it works
-
-This package installs a git alias that enhances the sync workflow. It adds the alias to your global git configuration, making it available for all your git repositories.
-
-For more details, see the [documentation](https://github.com/YOUR_USERNAME/git-sync-alias).
-
